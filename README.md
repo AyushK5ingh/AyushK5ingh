@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through mail(ayushkumarm.singh@gmail.com)
+- 📫 How to reach me through mail( ayushks16@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
