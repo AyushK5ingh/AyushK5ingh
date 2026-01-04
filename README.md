@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AyushK5ingh
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Devlopment project
 - 📫 How to reach me through mail( ayushks16@gmail.com)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
