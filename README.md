@@ -2,7 +2,7 @@
   <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
 </h1>
 
-  <img align='right' src='pepe-listening-to-music (1).gif' width='120"'>
+  <!-- <img align='right' src='pepe-listening-to-music (1).gif' width='120"'> -->
 <div align="center">
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-AYUSH-333d7a?&style=for-the-badge&logoWidth=50" />
