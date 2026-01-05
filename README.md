@@ -7,6 +7,8 @@
   <img height="40px" src="https://img.shields.io/badge/-AYUSH-333d7a?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-KUMAR-FF0000?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-SINGH-faebee?&style=for-the-badge&logoWidth=50" />
+  <img align='right' src='pepe-listening-to-music (1).gif' width='200"'>
+
 
   <br>
 
@@ -27,9 +29,10 @@
 
 class Developer {
     let name = "Ayush Kumar Singh 😄"
+    let Pursuing = "BTech IT 4th yr AKGEC,Ghaziabad"
     let role = "Full Stack Web Developer 📱💻"
     let loves = ["Nodejs 🐲", "React 🐬", "Go 🪼 "DevOps 🚀"]
-    let location = "Everywhere online 🌍 & offline in India 🇮🇳"
+    let location = "Everywhere online 🌍 & offline everywhere in India 🇮🇳"
 
     func sayHi() {
         print("Thanks for dropping by, hope you find some of my work interesting.")
