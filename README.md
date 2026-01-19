@@ -29,7 +29,7 @@
 
 class Developer {
     let name = "Ayush Kumar Singh 😄"
-    let Pursuing = "BTech IT 4th yr AKGEC,Ghaziabad"
+    let Pursuing = "BTech IT 4th yr at AKGEC,Ghaziabad"
     let role = "Full Stack Web Developer 📱💻"
     let loves = ["Nodejs 🐲", "React 🐬", "Go 🪼 "DevOps 🚀"]
     let location = "Everywhere online 🌍 & offline everywhere in India 🇮🇳"
