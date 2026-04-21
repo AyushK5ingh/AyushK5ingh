@@ -4,22 +4,27 @@
 
   <!-- <img align='right' src='pepe-listening-to-music (1).gif' width='120"'> -->
 <div align="center">
-  <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
+  <!-- <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-AYUSH-333d7a?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-KUMAR-FF0000?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-SINGH-faebee?&style=for-the-badge&logoWidth=50" />
 
 
-  <br>
+  <br> -->
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I%27m+Ayush+Singh;Web+Developer;Open+Source+Enthusiast;Obsessed+Learner;Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" />
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0300F7&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there+I'm+Ayush+Singh;Web+Developer;Open+Source+Enthusiast;Obsessed+Learner" alt="Typing SVG" /></a>
 
+  <a href="https://ayushk5ingh.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ayushks16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AyushK5ingh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:ayushks1602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://leetcode.com/u/ayushks1602/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" />
 </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -69,6 +74,13 @@ me.sayHi()
 </div>
 
 ## Contributions
+### 🚀 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushk5ingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushk5ingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-[![AyushK5ingh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushK5ingh)](https://github.com/AyushK5ingh/AyushK5ingh)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushk5ingh&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
