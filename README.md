@@ -46,7 +46,7 @@ class Developer {
 let me = Developer()
 me.sayHi()
 ```
-<img align="right" src="pepe-listening-to-music (1).gif" width="250" style="margin-bottom: 0;" alt="Pepe listening to music" />
+<img align="right" src="pepe-listening-to-music (1).gif" width="210" style="margin-bottom: 0;" alt="Pepe listening to music" />
 
 ### 💼 What I'm Up To
 
