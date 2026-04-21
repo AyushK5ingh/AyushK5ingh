@@ -1,16 +1,15 @@
-<h1 align="center" style="color:#faebee">
+<h1 align="center" style="color:#faebee; border-bottom: none !important;">
   <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
 </h1>
 
-  <!-- <img align='right' src='pepe-listening-to-music (1).gif' width='120"'> -->
 <div align="center">
   <!-- <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-AYUSH-333d7a?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-KUMAR-FF0000?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-SINGH-faebee?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-SINGH-faebee?&style=for-the-badge&logoWidth=50" /> -->
 
 
-  <br> -->
+  <br> 
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Hi+there+I%27m+Ayush+Singh;Web+Developer;Open+Source+Enthusiast;Obsessed+Learner;Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" />
 </p>
@@ -47,6 +46,15 @@ class Developer {
 let me = Developer()
 me.sayHi()
 ```
+<img align="right" src="pepe-listening-to-music (1).gif" width="250" style="margin-bottom: 0;" alt="Pepe listening to music" />
+
+### 💼 What I'm Up To
+
+- 🔨 Contributing to **Open Source** projects and building scalable web solutions
+- 📚 Deep diving into **System Design** and **Advanced Next.js** patterns
+- 🎯 Solving complex problems on **LeetCode** and mastering **Data Structures & Algorithms**
+- 💡 Exploring **AI/ML integration** in modern web applications
+- 🌱 Continuously learning and staying updated with latest tech trends
 
 <h1 align="center">
   <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" />
@@ -73,13 +81,14 @@ me.sayHi()
 
 </div>
 
+
+
 ## Contributions
 ### 🚀 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushk5ingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushk5ingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushk5ingh&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
