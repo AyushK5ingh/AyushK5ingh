@@ -1,6 +1,3 @@
-
- 
-
 <div align="center">
    <img height="40px" align="center" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
   <!-- <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
@@ -55,6 +52,18 @@ me.sayHi()
 - 🎯 Solving complex problems on **LeetCode** and mastering **Data Structures & Algorithms**
 - 💡 Exploring **AI/ML integration** in modern web applications
 - 🌱 Continuously learning and staying updated with latest tech trends
+
+## 🌱 Open Source Contributions
+
+**[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** — 10 merged PRs
+- [#67039](https://github.com/freeCodeCamp/freeCodeCamp/pull/67039) — Debounced challenge submissions to fix duplicate form bug
+- [#66965](https://github.com/freeCodeCamp/freeCodeCamp/pull/66965) — Fixed failing Jest tests for doubly linked list challenge
+- [View all merged PRs →](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3AAyushK5ingh+is%3Amerged)
+
+**[Meshery / Layer5](https://github.com/meshery/meshery)** — 2 merged PRs
+- [#17404](https://github.com/meshery/meshery/pull/17404) — Documentation enhancements
+- [#7552](https://github.com/layer5io/layer5/pull/7552) — Featured news article on Meshery v1.0 KubeCon EU launch
+
 
 <h1 align="center">
   <img height="40px" src="https://img.shields.io/badge/-My Tech Stack-faebee?&style=for-the-badge&logoWidth=50" />
