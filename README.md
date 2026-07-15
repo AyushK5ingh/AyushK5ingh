@@ -102,3 +102,7 @@ me.sayHi()
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushk5ingh&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
+
+
+<img src="https://komarev.com/ghpvc/?username=ayushk5ingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
