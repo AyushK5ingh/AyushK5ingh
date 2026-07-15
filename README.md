@@ -104,5 +104,5 @@ me.sayHi()
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=ayushk5ingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ayushk5ingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> -->
 
